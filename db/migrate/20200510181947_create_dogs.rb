@@ -27,3 +27,5 @@ end
     #end
   #end
  #end
+ 
+ #While the rollback (down) method is not included, it's implicit in the change method. Rolling back the database would work in exactly the same way as using the down method.
