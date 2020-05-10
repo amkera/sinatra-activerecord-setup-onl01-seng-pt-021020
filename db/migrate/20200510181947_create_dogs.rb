@@ -11,4 +11,5 @@ class CreateDogs < ActiveRecord::Migration[5.2]
   end
 end
 
-#
+#Now, run the migration from the terminal with rake db:migrate.
+
