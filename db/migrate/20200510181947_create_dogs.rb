@@ -13,3 +13,5 @@ end
 
 #Now, run the migration from the terminal with rake db:migrate.
 
+#$ rake db:migrate SINATRA_ENV=development
+
