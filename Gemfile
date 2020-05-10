@@ -17,4 +17,5 @@ group :development do
 	gem 'pry'
 	gem 'tux'
   gem 'sqlite3', '~> 1.3.6'
+    #sqlite3 is our database adapter gem - it's what allows our Ruby application to communicate with a SQL database
 end
